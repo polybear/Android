@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reflection</string>
+
+    <string name="app_id">568323019077</string>
+    <string name="package_name">com.study.reflection</string>
+    <string name="achievement_one">CgkIxaLElcUQEAIQAQ</string>
+    <string name="achievement_step">CgkIxaLElcUQEAIQAg</string>
+    <string name="leaderboard_point">CgkIxaLElcUQEAIQBg</string>
+    <string name="leaderboard_time">CgkIxaLElcUQEAIQBw</string>
+</resources>
